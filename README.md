@@ -1,2 +1,2 @@
 # BladeBug_Triangulation
-This method uses Triangulation method to find the distance of the robot on the turbine blade from the hub of the wind turbine
+This repository includes Arduino Codes to measure round-trip Time of Flight (ToF) for radio waves between nRF24 and LoRa transceiver modules. It also includes a python code to find the distance of the robot on a turbine blade from the hub of the wind turbine using trigonometry and geometry. The report discusses different methods which can be used to make a localisation system for Wind Turbine Inspection Robots. 
